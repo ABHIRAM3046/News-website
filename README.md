@@ -1,1 +1,2 @@
 # News-website
+This project is a news website designed to provide high-quality, unbiased news content to its readers. It features different sections covering various areas of interest such as world news, business, technology, sports, and opinion. This website is for anyone who wants to stay informed about the latest news stories from around the world, regardless of their location or background. Whether you are a journalist, a business professional, a student, or simply a curious individual, this website provides a platform for you to access reliable news content.
